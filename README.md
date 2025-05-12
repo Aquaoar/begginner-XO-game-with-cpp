@@ -9,7 +9,7 @@ char board[10] = { 'o' , '1' , '2' , '3' ,
                          '4' , '5' , '6' ,
                          '7' , '8' , '9'};
 ```
-This is the first line of code that come after the header. This code is make a char array name "board". In the array there are 10 elemeent range from o , 1 , 2, ... , 10. (The 'o' is not in use but it there to make it easier to write code.) this number in array use to indicate where to put "mark" and each element can change itself to X or 0 or number(default).
+This is the first line of code that come after the header. This code is make a char array name "board". In the array there are 10 elemeent range from o , 1 , 2, ... , 10. (The 'o' is not in use but it there to make it easier to write code.) this number in array use to indicate where to put "mark" and each element can change itself to X or O or number(default).
 ## 2. show board function
 ``` cpp
     void show_board(){ //show board in terminal
@@ -212,7 +212,7 @@ is to stored the mark that will be in square
     }
     while (i == -1);
 ```
-the code in do{} will be executed first and then check if while condition is true or flase
+the code in do{} will be executed first and then check if while condition is true or false
 >while (i == -1);
 
 The do function will be executed until i =! -1 (i not equal to -1) 
