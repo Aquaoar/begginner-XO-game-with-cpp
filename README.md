@@ -1,4 +1,4 @@
-# begginner-XO-game-with-cpp
+# beginner-XO-game-with-cpp
 The beginner XO game wirte by c++ that make by high-school student. There maybe error or typo in the code.
 
  I'm not good at grammar and write in code language since I'm not native speaker and I'm newbie about coding but I will try my best to explain how this code work.
